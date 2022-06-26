@@ -1,0 +1,112 @@
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 100px;
+    align-content: center;    
+}
+
+.grid-1{
+    color: cornflowerblue;
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.grid-1 img{
+    width: 50px;
+}
+
+.grid-2{
+    color: rgb(206, 126, 34);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.grid-2 img{
+    width: 70px;
+}
+
+.grid-3{
+    color: crimson;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.grid-3 img{
+    width: 74px;
+}
+
+
+.grid-4{
+    color: red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.grid-4 img{
+    width: 74px;
+}
+
+
+.grid-5{
+    color: rgb(21, 209, 146);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.grid-5 img{
+    width: 74px;
+}
+
+.grid-6{
+    color: rgb(20, 50, 220);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.grid-6 img{
+    width: 74px;
+}
+
+h4 a{
+    text-decoration: none;
+    color:gray;
+}
+h4 a:hover{
+    text-decoration: none;
+    color: #329ba8;
+}
+h4 a:visited{
+    color: #1dc24c;
+
+}
+
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    line-height: 3.5rem;
+    text-align: center;
+}
